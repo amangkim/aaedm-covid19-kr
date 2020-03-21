@@ -5,7 +5,7 @@
 
 
 ## Reference Citation
-* **Kim, S.-K.** (2020)**, <a href="https://www.medrxiv.org/content/10.1101/2020.03.17.20037838v1" target="_blank">AAEDM: Theoretical Dynamic Epidemic Diffusion Model and Covid-19 Korea Pandemic Cases</a>**, *medRxiv* <a href="https://doi.org/10.1101/2020.03.17.20037838" target="_blank">[Online] doi:10.1101/2020.03.17.20037838 </a></br>
+* **Kim, S.-K.** (2020)**, <a href="https://www.medrxiv.org/content/10.1101/2020.03.17.20037838v1" target="_blank">AAEDM: Theoretical Dynamic Epidemic Diffusion Model and Covid-19 Korea Pandemic Cases</a>**, *medRxiv.* <a href="https://doi.org/10.1101/2020.03.17.20037838" target="_blank">[Online] doi:10.1101/2020.03.17.20037838 </a></br>
 
 </br></br></br>
 
