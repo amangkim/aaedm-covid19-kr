@@ -8,7 +8,6 @@
 * **Kim, S.-K.** (2020)**, <a href="https://www.medrxiv.org/content/10.1101/2020.03.17.20037838v1" target="_blank">AAEDM: Theoretical Dynamic Epidemic Diffusion Model and Covid-19 Korea Pandemic Cases</a>**, *medRxiv* [Online] 
 <a href="https://doi.org/10.1101/2020.03.17.20037838" target="_blank"> doi:10.1101/2020.03.17.20037838 </a></br>
 
-<!---- <a href="https://www.medrxiv.org/content/10.1101/2020.03.17.20037838v1"> 
 </br></br></br>
 
 
