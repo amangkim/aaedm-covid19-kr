@@ -1,7 +1,7 @@
 # AAEDM: Amang's Analytical Epidemic Diffusion Model
 #### Advanced Analytical Epidemic Diffusion Model for Apply the Covid-19 Korea Dataset
 
-</br></br></br>
+</br></br>
 
 
 ## Reference Citation
@@ -13,8 +13,8 @@ https://www.medrxiv.org/content/10.1101/2020.03.17.20037838v1 </br></br></br>
 </br></br>
 
 
-## The site is still under construction and it will be opened soon.</br></br>
-
+## The site is still under construction and it will be opened soon.
 </br>
-By Amang Kim
+By Amang Kim</br>
+</br></br>
 
