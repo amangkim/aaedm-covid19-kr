@@ -1,6 +1,6 @@
 # AAEDM: Amang's Analytical Epidemic Diffusion Model
 ### *aaedm Toolbox*  --  Matlab Programing
-#### Advanced Analytical Epidemic Diffusion Model for Apply the Covid-19 Korea Dataset
+#### Advanced Analytical Epidemic Diffusion Model for Apply the Covid-19 Korea & Japan Datasets
 
 
 
