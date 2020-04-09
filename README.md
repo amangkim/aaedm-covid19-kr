@@ -9,7 +9,7 @@
 
 
 ![-](https://github.com/amangkim/aaedm-covid19-kr/blob/master/AAEDM_GitHub_3D_Graphs_AMG.jpg)
-</br>
+
 
 ## Revision History
 ```
