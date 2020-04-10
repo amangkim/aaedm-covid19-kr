@@ -12,10 +12,13 @@
 ![-](https://github.com/amangkim/aaedm-covid19-kr/blob/master/AAEDM_GitHub_3D_Graphs_AMG.jpg)
 
 
+### Youtube Demo: https://youtu.be/gex9cEryQao
+
 ## Revision History
 ```
 2020.03.27: The paper has been published.
 2020.04.09: Upload the aaedm Toolbox in the Github (v.0.3).
+2020.04.10: Youtube demo is provided.
 ```
 
 #### Code created by *Amang Kim* [v0.3 || 2020/04/09]
