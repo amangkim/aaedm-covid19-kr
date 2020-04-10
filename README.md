@@ -14,8 +14,6 @@
 
 ### Youtube Demo: https://youtu.be/gex9cEryQao
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gex9cEryQao" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 ## Revision History
 ```
