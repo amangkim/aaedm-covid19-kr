@@ -20,6 +20,7 @@
 2020.03.27: The paper has been published.
 2020.04.09: Upload the aaedm Toolbox in the Github (v.0.3).
 2020.04.10: Youtube demo is provided.
+2020.05.10: Covid19 dataset until 2020.03.31 is uploaded (KR, IT, UK, DE, ES, IR, US, JP, FR)
 ```
 
 #### Code created by *Amang Kim* [v0.3 || 2020/04/09]
